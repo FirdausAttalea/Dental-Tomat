@@ -1,3 +1,4 @@
-# Dental-Tomat
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/FirdausAttalea/Dental-Tomat)
+<h1> Front-end Request DentalWebsite using React Typescrip & Framer Motion </h1>
+<p>
+  Basic configuration using React Typescript + Vite.js + Framer Motion
+</p>
