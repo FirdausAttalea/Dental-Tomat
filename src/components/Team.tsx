@@ -4,19 +4,19 @@ import { useInView } from 'react-intersection-observer';
 
 const team = [
   {
-    name: 'Dr. Sarah Johnson',
+    name: 'Fania Alfadin Uba',
     role: 'Lead Dentist',
     image: 'https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=400',
     description: 'Specialized in cosmetic dentistry with 15 years of experience.'
   },
   {
-    name: 'Dr. Michael Chen',
+    name: 'Nadia Auba',
     role: 'Orthodontist',
     image: 'https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=400',
     description: 'Expert in dental alignment and orthodontic treatments.'
   },
   {
-    name: 'Dr. Emily Rodriguez',
+    name: 'Galang Franfis Dania Yessa',
     role: 'Pediatric Dentist',
     image: 'https://images.unsplash.com/photo-1594824476967-48c8b964273f?auto=format&fit=crop&q=80&w=400',
     description: 'Specialized in providing dental care for children.'

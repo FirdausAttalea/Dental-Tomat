@@ -3,17 +3,17 @@ import { Star } from 'lucide-react';
 export default function Testimonials() {
   const testimonials = [
     {
-      name: "Jennifer Smith",
+      name: "Nadia Auba",
       text: "The best dental experience I've ever had. Dr. Johnson and her team are incredibly professional and caring.",
       rating: 5
     },
     {
-      name: "David Wilson",
+      name: "Galang Franfis",
       text: "Finally found a dental office that makes me feel comfortable. The staff is friendly and the facilities are top-notch.",
       rating: 5
     },
     {
-      name: "Maria Garcia",
+      name: "Fania Alfadin Uba",
       text: "My children love coming here! Dr. Rodriguez has a special way with kids that makes dental visits fun.",
       rating: 5
     }
